@@ -30,4 +30,22 @@
 ### Kafka producer
 ![Topic](./images/6.jpg)
 ![Topic](./images/7.jpg)
+![Topic](./images/8.jpg)
 - Kafka producer can be tightly coupled to a specific partition also
+### Kafka consumer
+![Topic](./images/9.jpg)
+### Kafka consumer group
+![Topic](./images/10.jpg)
+![Topic](./images/11.jpg)
+![Topic](./images/12.jpg)
+![Topic](./images/13.jpg)
+- If consumer are part of different consumer groups then they can consume messages from same topic partition
+![Topic](./images/14.jpg)
+---
+![Topic](./images/15.jpg)
+
+### Replication in kafka
+![Topic](./images/16.jpg)
+![Topic](./images/17.jpg)
+![Topic](./images/18.jpg)
+![Topic](./images/19.jpg)
